@@ -70,7 +70,7 @@ This project is designed for:
 📁 Dynamic-Pathfinding-Visualizer
  ┣ 📜 main.py
  ┣ 📘 README.md
- ┗ 📄 requirements.txt (optional)
+ ┗ 📄 Path_finder.py
 ```
 
 ---
